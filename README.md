@@ -1,7 +1,7 @@
 - 👋 Hi, I’m... Kevin brown 
 - 👀 I’m interested in ...web development 
 - 🌱 I’m currently learning. css. Html. JavaScript 
-- 💞️ I’m looking to collaborate on. building project 
+- 💞️ I’m looking to collaborate on.my first website 
 - 📫 How to reach me ...https://twitter.com/Fashionverfied
 
 <!---
